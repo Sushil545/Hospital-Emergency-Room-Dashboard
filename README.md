@@ -2,7 +2,7 @@
 
 📥 [Click here to download the Excel Dashboard](https://github.com/Sushil545/Hospital-Emergency-Room-Dashboard/blame/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Sushil545/Hospital-Emergency-Room-Dashboard/blob/main/Screenshot%202025-07-26%20091529.png)
 
 ---
 
